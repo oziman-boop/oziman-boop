@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oguzhan Icer,
-- 👀 I’m interested in Machine Learning, Deep Learning, NLP, Statistics
+- 👀 I’m interested in Machine Learning, Deep Learning, Statistics
 - 🌱 I’m currently learning GANs, MLOps, CNN, RNN, PyTorch
 - 📫 How to reach me oguzhaniicer@hotmail.com / https://www.linkedin.com/in/oguzhan-icer-ab2a25103/ https://www.kaggle.com/oziboy
 
